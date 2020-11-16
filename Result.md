@@ -7,11 +7,8 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* [Дефект 1](https://github.com/A-Yu-Zhukova/Credit-Card-Number-Validator/issues/1)
-* [Дефект 2](https://github.com/A-Yu-Zhukova/Credit-Card-Number-Validator/issues/2)
-* [Дефект 3](https://github.com/A-Yu-Zhukova/Credit-Card-Number-Validator/issues/3)
-* [Дефект 4](https://github.com/A-Yu-Zhukova/Credit-Card-Number-Validator/issues/4)
-* [Дефект 5](https://github.com/A-Yu-Zhukova/Credit-Card-Number-Validator/issues/5)
+* [Отрицательный результат при вводе 19-значного валидного номера карты](https://github.com/A-Yu-Zhukova/Credit-Card-Number-Validator/issues/1)
+* [Отрицательный результат при вводе валидных номеров карт American Express](https://github.com/A-Yu-Zhukova/Credit-Card-Number-Validator/issues/2)
 
 ## Описание процесса тестирования
 
